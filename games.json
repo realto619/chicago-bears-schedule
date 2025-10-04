@@ -1,5 +1,5 @@
 { 
-  "games": [
+  "data" : [
   {
     "id": 1,
     "season": "pre",
@@ -395,4 +395,5 @@
     "opponent_score": 0
   }
   ]
+}
 }
