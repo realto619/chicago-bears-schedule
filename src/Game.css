@@ -1,0 +1,390 @@
+
+._49ers { background: linear-gradient(to bottom right, #aa0000, #b07346); }
+.Bills { background: linear-gradient(to bottom right, blue, red); }
+.Browns { background: linear-gradient(to bottom right, #311d00, #ff3c00); }
+.Bye { background: linear-gradient(to bottom right, black, black }); }
+.Chiefs { background: linear-gradient(to bottom right, red, white); }
+.Cincinnati { background: linear-gradient(to bottom right, #fb4f14, black); }
+.Commanders { background: linear-gradient(to bottom right, #5a1414, #ffb612); }
+.Cowboys { background: linear-gradient(to bottom right, #002244, silver); }
+.Dolphins { background: linear-gradient(to bottom right, #008e97, #fc4c02); }
+.Eagles { background: linear-gradient(to bottom right, green, white); }
+.Giants { background: linear-gradient(to bottom right, blue, red); }
+.Lions { background: linear-gradient(to bottom right, dodgerblue, silver); }
+.Packers { background: linear-gradient(to bottom right, green, yellow); }
+.Raiders { background: linear-gradient(to bottom right, black, silver); }
+.Ravens { background: linear-gradient(to bottom right, #241773, #9e7c0c); }
+.Saints { background: linear-gradient(to bottom right, black, #d3bc8d); }
+.Steelers { background: linear-gradient(to bottom right, black, gold); }
+.Vikings { background: linear-gradient(to bottom right, #4f2683, #ffc62f); }
+
+.BUF { background-image:url(./logos/BUF.svg);background-position:center center; }
+.GB { background-image:url(./logos/GB.svg);background-position:center center; }
+.KC { background-image:url(./logos/KC.svg);background-position:center center; }
+.MIN { background-image:url(./logos/MIN.svg);background-position:center center; }
+.MIA { background-image:url(./logos/MIA.svg);background-position:center center; }    
+.PIT { background-image:url(./logos/PIT.svg);background-position:center center; }    
+.BAL { background-image:url(./logos/BAL.svg);background-position:center center; }    
+.NO  { background-image:url(./logos/NO.svg);background-position:center center; }    
+.DET  { background-image:url(./logos/DET.svg);background-position:center center; }    
+.LV  { background-image:url(./logos/LV.svg);background-position:center center; }    
+.PHI  { background-image:url(./logos/PHI.svg);background-position:center center; }    
+.DAL  { background-image:url(./logos/DAL.svg);background-position:center center; }    
+.WAS  { background-image:url(./logos/WAS.svg);background-position:center center; }    
+.CIN  { background-image:url(./logos/CIN.svg);background-position:center center; }    
+.NYG  { background-image:url(./logos/NYG.svg);background-position:center center; }    
+.CLE  { background-image:url(./logos/CLE.svg);background-position:center center; }    
+.SF  { background-image:url(./logos/SF.svg);background-position:center center; }    
+.BYE  { background-color:black;background-image:url(./logos/BYE.svg);background-position:center center; }    
+
+.logo {
+  background-image:url(./logos/chicago_bears-v2.svg);background-position:center center;background-size:contain;background-repeat:no-repeat;
+}
+.Bears_score {
+  background-image:url(./logos/CHI.svg);background-position:center center;background-size:contain;background-repeat:no-repeat;
+}
+
+.W {
+  background-image:url(./logos/W.svg);background-position:center center;background-size:contain;background-repeat:no-repeat;
+}
+.T {
+  background-image:url(./logos/T.svg);background-position:center center;background-size:contain;background-repeat:no-repeat;
+}
+.L {
+  background-image:url(./logos/L.svg);background-position:center center;background-size:contain;background-repeat:no-repeat;
+}
+
+
+
+.Opp_score_BUF { background-image:url(./logos/BUF.svg);background-position:center center;background-size:contain;background-repeat:no-repeat;width: 100%; }
+.Opp_score_GB { background-image:url(./logos/GB.svg);background-position:center center;background-size:contain;background-repeat:no-repeat; }
+.Opp_score_KC { background-image:url(./logos/KC.svg);background-position:center center;background-size:contain;background-repeat:no-repeat; }
+.Opp_score_MIN { background-image:url(./logos/MIN.svg);background-position:center center;background-size:contain;background-repeat:no-repeat; }
+.Opp_score_MIA { background-image:url(./logos/MIA.svg);background-position:center center;background-size:contain;background-repeat:no-repeat; }    
+.Opp_score_PIT { background-image:url(./logos/PIT.svg);background-position:center center;background-size:contain;background-repeat:no-repeat; }    
+.Opp_score_BAL { background-image:url(./logos/BAL.svg);background-position:center center;background-size:contain;background-repeat:no-repeat; }    
+.Opp_score_NO  { background-image:url(./logos/NO.svg);background-position:center center;background-size:contain;background-repeat:no-repeat; }    
+.Opp_score_DET  { background-image:url(./logos/DET.svg);background-position:center center;background-size:contain;background-repeat:no-repeat; }    
+.Opp_score_LV  { background-image:url(./logos/LV.svg);background-position:center center;background-size:contain;background-repeat:no-repeat; }    
+.Opp_score_PHI  { background-image:url(./logos/PHI.svg);background-position:center center;background-size:contain;background-repeat:no-repeat; }    
+.Opp_score_DAL  { background-image:url(./logos/DAL.svg);background-position:center center;background-size:contain;background-repeat:no-repeat; }    
+.Opp_score_WAS  { background-image:url(./logos/WAS.svg);background-position:center center;background-size:contain;background-repeat:no-repeat; }    
+.Opp_score_CIN  { background-image:url(./logos/CIN.svg);background-position:center center;background-size:contain;background-repeat:no-repeat; }    
+.Opp_score_NYG  { background-image:url(./logos/NYG.svg);background-position:center center;background-size:contain;background-repeat:no-repeat; }    
+.Opp_score_CLE  { background-image:url(./logos/CLE.svg);background-position:center center;background-size:contain;background-repeat:no-repeat; }    
+.Opp_score_.SF  { background-image:url(./logos/SF.svg);background-position:center center;background-size:contain;background-repeat:no-repeat; }    
+
+
+
+:root {
+  --game_away_color:orange;
+  --game_home_color:rgb(46, 46, 248);
+  --game_bye_color:black;
+}
+.knewave-regular {
+  font-family: "Knewave", system-ui;
+  font-weight: 400;
+  font-style: normal;
+}
+body {
+  background: linear-gradient(to bottom right, navy,orange);
+  font-family: sans-serif;
+  max-width:100vw;
+  overflow-x:hidden;
+  display:flex;
+  flex-direction:column;
+  flex-basis:100%;
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+
+}
+main  {
+  display:flex;
+  flex-direction:row;
+  gap:10px;
+  flex-basis:100%;
+  flex-wrap:wrap;
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+}
+h1, h3  {
+  display:flex;
+  flex-direction:row;
+  gap:10px;
+  flex-basis:100%;
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+  font-size: 2.5rem;
+  margin: 5px;
+  color:orange;
+  text-shadow:2px 2px navy, 1px 1px orange;
+}
+h1 { 
+  font-size: 3rem;
+  color:white;
+  max-width:100vw;
+}
+
+.game {
+  border:4px navy solid;
+  border-radius:10px;
+  display:flex;
+  gap:10px;
+  flex-direction:row;
+  flex-basis:30%;
+  flex-wrap:wrap;
+  text-align: center;
+  justify-content: space-around;
+  align-items: center;
+  /* background: #fff; */
+  color:white;
+  text-shadow:2px 2px navy, 1px 1px orange;
+  overflow:hidden;
+  margin-bottom: 10px;
+}
+.game-date {
+  text-transform: uppercase;
+}
+.score {
+  width: 33.3%;
+  font-size: 4rem;
+  padding: 15px;
+}
+.game-week {
+  font-size: 3rem;
+  margin-left: 5px;
+  color:yellow;
+  width:20%;
+  text-shadow:2px 2px navy, 1px 1px orange;
+  font-family: 'Knewave', fantasy, sans-serif;
+}
+.game-date {
+  font-size: 1.25rem;
+}
+.game-opponent {
+  background-size: contain;
+  background-repeat:no-repeat;
+  /* width: 200%;
+  height: 200%;*/
+  width: 100%; 
+  height: 150px;
+  /* overflow:hidden; */
+  margin: 0;
+  /* padding-bottom: 0.15rem; */
+  font-family: sans-serif;
+  text-transform: uppercase;
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+  display: flex;
+  /* flex-basis:100%; */
+  width: 100%;
+  text-shadow:2px 2px navy, 1px 1px white;
+  transform:scale(1);
+  /* background-size: 200% 200%; */
+}
+.opponent {
+  background-size: contain;
+  background-repeat:no-repeat;
+  /* width: 200%;
+  height: 200%;*/
+  width: 175px; 
+  height: 175px;
+  /* overflow:hidden; */
+  margin: 0;
+  /* padding-bottom: 0.15rem; */
+  font-family: sans-serif;
+  text-transform: uppercase;
+  justify-content: end;
+  align-items: center;
+  display: flex;
+  /* flex-basis:100%; */
+  width: 100%;
+  text-shadow:2px 2px navy, 1px 1px white;
+  transform:scale(1);
+  /* background-size: 200% 200%; */
+}
+.location {
+  margin-top: 5%;
+  margin-left: 5%;
+  display:inline-block;
+  text-align: center;
+  width:100px;
+  color:white;
+  font-weight: bold;
+  font-size: 1.5rem !important;
+  transform:scale(1);
+}
+.location.bye {
+  display:inline-block;
+  font-size: 2rem;
+  text-align: right;
+  color:black;
+  opacity:0;
+  width: 50px;
+}
+.header { 
+  display:flex;
+  flex-direction:row;
+  flex-basis:100%;
+  text-align: center;
+  justify-content: space-evenly;
+  align-items: center;  
+}
+.details,
+.vs {
+  width: 60%;
+  font-size: 1.75rem;
+  justify-content: center;
+  text-align: center;
+  border:0px dotted #ccc;
+  /* display:none; */
+}
+.vs {
+  width: 20%;
+}
+.game-time {
+  font-size: 1.25rem;
+}
+.game-date {
+  font-size: 1.5rem;
+}
+.game-day {
+  font-variant-caps: small-caps;
+}
+.opponent {
+  width:33.3%;
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+}
+.home_away_wrapper {
+  display:flex;
+  flex-direction:row;
+  flex-basis:100%;
+  text-align: center;
+  justify-content: space-evenly;
+  align-items: center;
+  font-size: 0.8rem;
+}
+.home_away {
+  display: flex;
+  width:25%;
+  font-size:1.2rem;
+  text-align:center;
+  justify-content: center;
+  align-items: center;
+  margin: 3px;
+  text-shadow:0.5px 0.5px #ccc, 1px 1px #aaa;
+}
+.game_road_color { 
+  color:white;
+  border:var(--game_away_color);
+  border-radius:10px;
+  border: var(--game_away_color) 10px solid;
+  text-shadow:0.5px 0.5px #ccc, 1px 1px #aaa;
+}
+.game_home_color { 
+  color:white;
+  border:var(--game_home_color);
+  border-radius:10px;
+  border: var(--game_home_color) 10px solid;
+  text-shadow:0.5px 0.5px #ccc, 1px 1px #aaa;
+}
+.game_bye_color { 
+  color:white;
+  border:black;
+  border-radius:10px;
+  background:black;
+  border: black 10px solid;
+  text-shadow:0.5px 0.5px #ccc, 1px 1px #aaa;
+}
+small {
+  margin-left: 5px;
+  font-family: sans-serif;
+  font-size: 1rem;
+  align-items:center;
+}
+.week {
+  color: yellow;
+  text-shadow:1px 1px #00a;
+  display: flex;
+  text-align:center;
+  justify-content: center;
+  align-items: center;
+  height:20px;
+  font-variant-caps: small-caps;
+  margin-top: 10px;
+  margin-bottom: 0;
+}
+.home_bg  {
+  background: var(--game_home_color);
+  background: linear-gradient(to bottom right, navy,orange);
+
+}
+.road_bg  {
+  background: orange;
+  background: linear-gradient(to bottom right, navy,orange);
+
+}
+footer {
+  position: fixed;
+  bottom:10px;
+  left:50%;
+  height:30px;
+  margin-left:50%;
+  display:flex;
+  flex-direction:row;
+  flex-basis:100%;
+  width: 100%;
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+  background: #000;
+  color:white;
+  z-index: 500;
+}
+
+
+main {
+  margin-bottom: 50px;
+}
+@media (min-width: 301px) and (max-width: 500px) {
+  body, .btn { font-size:0.75rem;}
+  .game {
+    flex-basis:100%;
+  }
+  h1 { font-size: 2rem;}
+}
+
+@media (min-width: 501px) and (max-width: 600px) {
+  body, .btn { font-size:0.75rem;}
+  .game {
+    flex-basis:80%;
+  }
+  h1 { font-size: 2.25rem;}
+}
+
+@media (min-width: 601px) and (max-width: 800px) {
+  .game {
+    flex-basis:30%;
+  }
+  .game-date {
+    font-size: 1.05rem;
+  }
+  h1 { font-size: 2.5rem;}
+
+}
+
+@media (min-width: 801px) and (max-width: 1000px) {
+  .game {
+    flex-basis:30%;
+  }
+  .game-date {
+    font-size: 1.5rem;
+  }
+
+}
